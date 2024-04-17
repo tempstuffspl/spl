@@ -139,7 +139,7 @@
 
 ## Pytanie PL010-0311
 `Na jaki okres czasu Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej ministrami właściwymi do spraw wewnętrznych oraz środowiska może określić zasady wprowadzania przez państwowy organ zarządzania ruchem lotniczym ograniczeń lotów w części przestrzeni powietrznej oraz sposób publikacji tych ograniczeń??`
-* ** Na czas nie dłuższy niż 3 miesiące**
+* **Na czas nie dłuższy niż 3 miesiące**
 * Na czas dłuższy niż 6 miesięcy
 * Na czas dłuższy niż 4 miesiące
 * Na czas dłuższy niż 3 miesiące

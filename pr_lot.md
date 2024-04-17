@@ -54,12 +54,12 @@
 * 600 m
 * 2000 m
 
-## Pytanie PL010-0186
-`Służba informacji powietrznej jest zapewniana przez:`
-* **wszystkie organy służby ruchu lotniczego w odniesieniu do statków powietrznych będących w ich kompetencji lub o których zainteresowany organ służby ruchu lotniczego został powiadomiony**
+## Pytanie PL010-0185
+`Służba informacji lotniczej jest zapewniana przez:`
+* **wydzieloną służbę ustanowioną w granicach określonego obszaru dla zapewniania danych i informacji lotniczych niezbędnych dla bezpieczeństwa, regularności i efektywności żeglugi powietrznej**
 * organ służby kontroli ruchu lotniczego w odniesieniu do wszystkich statków powietrznych
 * organ wojskowej służby ruchu lotniczego w odniesieniu do wszystkich statków powietrznych
-* wydzieloną służbę ustanowioną w granicach określonego obszaru dla zapewniania danych i informacji lotniczych niezbędnych dla bezpieczeństwa, regularności i sprawności żeglugi powietrznej
+* wszystkie organy służby ruchu lotniczego w odniesieniu do statków powietrznych będących w ich kompetencji lub o których zainteresowany organ służby ruchu lotniczego został powiadomiony
 * 
 ## Pytanie PL010-0186
 `Służba informacji powietrznej jest zapewniana przez:`

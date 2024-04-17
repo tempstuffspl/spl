@@ -60,6 +60,13 @@
 * organ służby kontroli ruchu lotniczego w odniesieniu do wszystkich statków powietrznych
 * organ wojskowej służby ruchu lotniczego w odniesieniu do wszystkich statków powietrznych
 * wydzieloną służbę ustanowioną w granicach określonego obszaru dla zapewniania danych i informacji lotniczych niezbędnych dla bezpieczeństwa, regularności i sprawności żeglugi powietrznej
+* 
+## Pytanie PL010-0186
+`Służba informacji powietrznej jest zapewniana przez:`
+* **wszystkie organy służby ruchu lotniczego w odniesieniu do statków powietrznych będących w ich kompetencji lub o których zainteresowany organ służby ruchu lotniczego został powiadomiony**
+* organ służby kontroli ruchu lotniczego w odniesieniu do wszystkich statków powietrznych
+* organ wojskowej służby ruchu lotniczego w odniesieniu do wszystkich statków powietrznych
+* wydzieloną służbę ustanowioną w granicach określonego obszaru dla zapewniania danych i informacji lotniczych niezbędnych dla bezpieczeństwa, regularności i sprawności żeglugi powietrznej
 
 ## Pytanie PL010-0015
 `AMC jest to:`
